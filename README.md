@@ -1,0 +1,2 @@
+# AspNetCoreRazorPagesDemo
+Practicing Razor
